@@ -44,4 +44,4 @@ switch(namaMakanan) {
         alert('makanan / minuman salah');
         break;
 } 
-// setiap cse tidak perlu break, hanya case terakhir yang memiliki output sama saja yang menggunakan break (hasilnya akan tetap sama, misal memilih nasi nanti masuk ke alert di case susu)
+// setiap case tidak perlu break, hanya case terakhir yang memiliki output sama saja yang menggunakan break (hasilnya akan tetap sama, misal memilih nasi nanti masuk ke alert di case susu)
